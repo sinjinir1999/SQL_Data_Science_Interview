@@ -1,5 +1,5 @@
 /* 
-Query to fetch first three initials
+Query to fetch first three initials.
 */
 
 SELECT substring(full_name, 1, 3)
