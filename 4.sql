@@ -1,5 +1,5 @@
 /*
-Query to fetch fullname and replace ' ' with '-'.
+Query to Replace ' ' with '-'.
 */
 
 SELECT REPLACE(full_name, " ", "-")
