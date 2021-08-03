@@ -1,5 +1,5 @@
 /*
-Fetch Duplicate Records in SQL
+Fetch Duplicate Records in SQL.
 */
 
 SELECT full_name
