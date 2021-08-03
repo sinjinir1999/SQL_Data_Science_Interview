@@ -1,5 +1,5 @@
 /*
-Like Operator in SQL
+Like Operator in SQL.
 */
 
 SELECT full_name
