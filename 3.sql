@@ -1,5 +1,5 @@
 /*
-Display total salary of each employee
+Display total salary of each employee.
 */
 
 SELECT emp_id
