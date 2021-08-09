@@ -1,4 +1,4 @@
--- Create Table using same Data structure
+-- Create Table using same Data structure.
 
 CREATE TABLE NEW_SALARY 
 AS 
